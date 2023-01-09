@@ -1,6 +1,8 @@
 # OpenData Deep Learning Project
 
-Welcome to the OpenData-Deep-Learning-Project repository! This project demonstrates an advanced usage of Ocean Market's OpenData project to train deep learning models. 
+This File is not fully accurate yet, view it as a placeholder with benefits!
+
+Welcome to the OpenData Deep Learning Project repository! This project demonstrates an advanced usage of Ocean Market's OpenData project to train deep learning models. 
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -11,14 +13,14 @@ Welcome to the OpenData-Deep-Learning-Project repository! This project demonstra
 
 ## Project Description
 
-In this project, we use Ocean Market's OpenData project to train deep learning models for various tasks. The OpenData project provides access to a wide range of data sets that can be used to train machine learning models. By leveraging the power of deep learning, we are able to achieve state-of-the-art results on a variety of tasks.
+In this project, we use Ocean Market's OpenData project to share a dataset. The OpenData project provides access to a wide range of data sets that can be used to train machine learning models. By leveraging the power of deep learning, we will learn how generate potentially useful insights that can help us understand our data better.
 
 ## Installation
 
 To install the necessary dependencies for this project, run the following command:
-
+```
 pip install -r requirements.txt
-
+```
 ## Usage
 
 To use the code in this repository, follow these steps:
