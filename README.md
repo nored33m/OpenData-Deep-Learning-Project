@@ -1,4 +1,4 @@
-# OpenData-Deep-Learning-Project
+# OpenData Deep Learning Project
 
 Welcome to the OpenData-Deep-Learning-Project repository! This project demonstrates an advanced usage of Ocean Market's OpenData project to train deep learning models. 
 
